@@ -2,6 +2,12 @@
 layout: default
 ---
 
+I'm Tim.  This is my site.  I don't know what I'm doing with it yet.  
+
+<!-- 
+
+examples of formatting/jekyll
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -120,4 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->

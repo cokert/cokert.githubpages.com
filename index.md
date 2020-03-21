@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Tim.  I registered this domain recently and threw this up here.  I don't know what I'm doing with it yet.  
+I'm Tim.  I registered this domain recently when I learned .wtf domains were a thing and threw this up here as an excuse to play with Jekyll/github pages.  I don't know what I'm doing with it yet.  
 
 <!-- 
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm Tim.  This is my site.  I don't know what I'm doing with it yet.  
+I'm Tim.  I registered this domain recently and threw this up here.  I don't know what I'm doing with it yet.  
 
 <!-- 
 
